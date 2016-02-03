@@ -2,3 +2,6 @@
 
 ### 1. 一个具有粘性的滑动小球，具有跌落反弹形成文字的效果，形成loading字样
 https://github.com/yxping/AdhesiveLoadingView
+
+![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half1.gif) ![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half2.gif)
+
