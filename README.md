@@ -5,3 +5,5 @@ https://github.com/yxping/AdhesiveLoadingView
 
 ![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half1.gif) ![image](https://raw.githubusercontent.com/yxping/AdhesiveLoadingView/master/half2.gif)
 
+### 2. xUtils3简介
+https://github.com/wyouflf/xUtils3
