@@ -7,5 +7,9 @@ https://github.com/yxping/AdhesiveLoadingView
 
 ### 2. xUtils3简介
 https://github.com/wyouflf/xUtils3
+
 ### 3. greenDao
 https://github.com/greenrobot/greenDAO
+
+### 4.微信公众平台SDK Senparc.Weixin for C#，已支持微信公众号、企业号、开放平台、微信支付、JSSDK。 http://weixin.senparc.com
+https://github.com/JeffreySu/WeiXinMPSDK
