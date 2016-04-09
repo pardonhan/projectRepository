@@ -24,3 +24,8 @@ Android widget with pull to refresh for all the views,and support loadMore for L
 加载更多目前支持ListView、RecyclerView、GridView、SwipeRefreshLayout
 支持自定义header以及footer
 增加SwipeRefreshLayout刷新方式，同样支持加载更多
+
+# 一些软件的密钥
+
+VS2012 有效注册密钥
+ Microsoft Visual Studio Ultimate 2012 旗舰版 有效注册密钥： YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
