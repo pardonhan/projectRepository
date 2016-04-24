@@ -29,3 +29,8 @@ Android widget with pull to refresh for all the views,and support loadMore for L
 
 VS2012 有效注册密钥
  Microsoft Visual Studio Ultimate 2012 旗舰版 有效注册密钥： YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
+ 
+# 一个网站，一个音乐播放网站
+http://musicforprogramming.net/
+# 直播写代码
+https://www.livecoding.tv/
