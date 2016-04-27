@@ -1,3 +1,4 @@
+# 暴力解决TFS签出
 1、连接到TFS数据库服务器的tfsversioncontrol库；
 
 2、查tbl_workspace表，找出那哥们的工作目录，
